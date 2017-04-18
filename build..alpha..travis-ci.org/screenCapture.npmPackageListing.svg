@@ -1,128 +1,128 @@
 <svg height="1998" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1998" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 11:49:45 +0000  6213251 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 11:49:45 +0000     2639 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 11:49:45 +0000     3655 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 11:49:45 +0000     1145 bytes  gulpfile.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 11:49:45 +0000       40 bytes  index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 11:49:45 +0000     5774 bytes  lib/baropts.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 11:49:45 +0000    25557 bytes  lib/bwip.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 11:49:45 +0000    80700 bytes  lib/bwipp/auspost.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 11:49:45 +0000   187974 bytes  lib/bwipp/azteccode.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 11:49:45 +0000    35204 bytes  lib/bwipp/bc412.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 11:49:45 +0000    38846 bytes  lib/bwipp/channelcode.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 11:49:45 +0000   197777 bytes  lib/bwipp/codablockf.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 11:49:45 +0000    52065 bytes  lib/bwipp/code11.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 11:49:45 +0000   151095 bytes  lib/bwipp/code128.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 11:49:45 +0000   244571 bytes  lib/bwipp/code16k.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 11:49:45 +0000    44673 bytes  lib/bwipp/code2of5.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 11:49:45 +0000    22763 bytes  lib/bwipp/code32.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 11:49:45 +0000    46098 bytes  lib/bwipp/code39.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 11:49:45 +0000    31957 bytes  lib/bwipp/code39ext.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 11:49:45 +0000   286061 bytes  lib/bwipp/code49.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 11:49:45 +0000    45607 bytes  lib/bwipp/code93.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 11:49:45 +0000    33956 bytes  lib/bwipp/code93ext.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 11:49:45 +0000   139605 bytes  lib/bwipp/codeone.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 11:49:45 +0000    21341 bytes  lib/bwipp/daft.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 11:49:45 +0000   378407 bytes  lib/bwipp/databarexpanded.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 11:49:45 +0000    27767 bytes  lib/bwipp/databarexpandedcomposite.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 11:49:45 +0000     8932 bytes  lib/bwipp/databarexpandedstacked.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 11:49:45 +0000    26615 bytes  lib/bwipp/databarexpandedstackedcomposite.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 11:49:45 +0000    97776 bytes  lib/bwipp/databarlimited.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 11:49:45 +0000    19001 bytes  lib/bwipp/databarlimitedcomposite.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 11:49:45 +0000   160698 bytes  lib/bwipp/databaromni.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 11:49:45 +0000    28845 bytes  lib/bwipp/databaromnicomposite.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 11:49:45 +0000     8868 bytes  lib/bwipp/databarstacked.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 11:49:45 +0000    26451 bytes  lib/bwipp/databarstackedcomposite.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 11:49:45 +0000     8888 bytes  lib/bwipp/databarstackedomni.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 11:49:45 +0000    26493 bytes  lib/bwipp/databarstackedomnicomposite.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 11:49:45 +0000     8878 bytes  lib/bwipp/databartruncated.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 11:49:45 +0000    28900 bytes  lib/bwipp/databartruncatedcomposite.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 11:49:45 +0000   190147 bytes  lib/bwipp/datamatrix.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 11:49:45 +0000    68622 bytes  lib/bwipp/ean13.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 11:49:45 +0000    13254 bytes  lib/bwipp/ean13composite.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 11:49:45 +0000    22108 bytes  lib/bwipp/ean14.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 11:49:45 +0000    29131 bytes  lib/bwipp/ean2.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 11:49:45 +0000    33256 bytes  lib/bwipp/ean5.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 11:49:45 +0000    59956 bytes  lib/bwipp/ean8.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 11:49:45 +0000    13787 bytes  lib/bwipp/ean8composite.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 11:49:45 +0000    19782 bytes  lib/bwipp/flattermarken.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 11:49:45 +0000    53907 bytes  lib/bwipp/gs1-128.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 11:49:45 +0000    29127 bytes  lib/bwipp/gs1-128composite.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 11:49:45 +0000   294347 bytes  lib/bwipp/gs1-cc.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 11:49:45 +0000    45870 bytes  lib/bwipp/gs1datamatrix.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 11:49:45 +0000    14516 bytes  lib/bwipp/hibccodablockf.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 11:49:45 +0000    22708 bytes  lib/bwipp/hibccode128.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 11:49:45 +0000    23223 bytes  lib/bwipp/hibccode39.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 11:49:45 +0000    14516 bytes  lib/bwipp/hibcdatamatrix.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 11:49:45 +0000    15655 bytes  lib/bwipp/hibcmicropdf417.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 11:49:45 +0000    15605 bytes  lib/bwipp/hibcpdf417.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 11:49:45 +0000    14476 bytes  lib/bwipp/hibcqrcode.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 11:49:45 +0000    23935 bytes  lib/bwipp/identcode.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 11:49:45 +0000     9291 bytes  lib/bwipp/index.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 11:49:45 +0000    47961 bytes  lib/bwipp/interleaved2of5.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 11:49:45 +0000    49101 bytes  lib/bwipp/isbn.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 11:49:45 +0000    43838 bytes  lib/bwipp/ismn.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 11:49:45 +0000    38507 bytes  lib/bwipp/issn.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 11:49:45 +0000    16718 bytes  lib/bwipp/itf14.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 11:49:45 +0000    48144 bytes  lib/bwipp/japanpost.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 11:49:45 +0000    31934 bytes  lib/bwipp/kix.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 11:49:45 +0000    23935 bytes  lib/bwipp/leitcode.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 11:49:45 +0000   205312 bytes  lib/bwipp/maxicode.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 11:49:45 +0000   154143 bytes  lib/bwipp/micropdf417.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 11:49:45 +0000    53443 bytes  lib/bwipp/msi.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 11:49:45 +0000   112095 bytes  lib/bwipp/onecode.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 11:49:45 +0000   139377 bytes  lib/bwipp/pdf417.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 11:49:45 +0000    22169 bytes  lib/bwipp/pharmacode.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 11:49:45 +0000    23789 bytes  lib/bwipp/pharmacode2.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 11:49:45 +0000    42971 bytes  lib/bwipp/planet.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 11:49:45 +0000    49317 bytes  lib/bwipp/plessey.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 11:49:45 +0000   118769 bytes  lib/bwipp/posicode.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 11:49:45 +0000    43978 bytes  lib/bwipp/postnet.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 11:49:45 +0000    20479 bytes  lib/bwipp/pzn.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 11:49:45 +0000   408301 bytes  lib/bwipp/qrcode.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 11:49:45 +0000    42292 bytes  lib/bwipp/rationalizedCodabar.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 11:49:45 +0000    10439 bytes  lib/bwipp/raw.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 11:49:45 +0000    84288 bytes  lib/bwipp/renlinear.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 11:49:45 +0000    22763 bytes  lib/bwipp/renmatrix.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 11:49:45 +0000     8202 bytes  lib/bwipp/renmaximatrix.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 11:49:45 +0000    42881 bytes  lib/bwipp/royalmail.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 11:49:45 +0000    22112 bytes  lib/bwipp/sscc18.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 11:49:45 +0000    11970 bytes  lib/bwipp/symbol.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 11:49:45 +0000    51190 bytes  lib/bwipp/telepen.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 11:49:45 +0000    65395 bytes  lib/bwipp/upca.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 11:49:45 +0000    13244 bytes  lib/bwipp/upcacomposite.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 11:49:45 +0000    79768 bytes  lib/bwipp/upce.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 11:49:45 +0000    15775 bytes  lib/bwipp/upcecomposite.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 11:49:45 +0000     2121 bytes  lib/canvas.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 11:49:45 +0000      966 bytes  lib/codes.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 11:49:45 +0000      567 bytes  lib/fonts/index.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 11:49:45 +0000     5046 bytes  lib/fonts/ocrb10-01.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 11:49:45 +0000     7621 bytes  lib/fonts/ocrb10-02.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 11:49:45 +0000    10033 bytes  lib/fonts/ocrb10-03.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 11:49:45 +0000    13619 bytes  lib/fonts/ocrb10-04.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 11:49:45 +0000    16578 bytes  lib/fonts/ocrb10-05.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 11:49:45 +0000    19106 bytes  lib/fonts/ocrb10-06.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 11:49:45 +0000    21802 bytes  lib/fonts/ocrb10-07.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 11:49:45 +0000    24253 bytes  lib/fonts/ocrb10-08.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 11:49:45 +0000    27243 bytes  lib/fonts/ocrb10-09.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 11:49:45 +0000    29828 bytes  lib/fonts/ocrb10-10.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 11:49:45 +0000     5313 bytes  lib/fonts/ocrb12-01.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 11:49:45 +0000     9150 bytes  lib/fonts/ocrb12-02.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 11:49:45 +0000    12711 bytes  lib/fonts/ocrb12-03.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 11:49:45 +0000    16332 bytes  lib/fonts/ocrb12-04.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 11:49:45 +0000    19925 bytes  lib/fonts/ocrb12-05.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 11:49:45 +0000    23267 bytes  lib/fonts/ocrb12-06.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 11:49:45 +0000    26683 bytes  lib/fonts/ocrb12-07.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-18 11:49:45 +0000    29774 bytes  lib/fonts/ocrb12-08.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-18 11:49:45 +0000    33209 bytes  lib/fonts/ocrb12-09.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-18 11:49:45 +0000    36598 bytes  lib/fonts/ocrb12-10.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-18 11:49:45 +0000     7528 bytes  lib/png.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-18 11:49:45 +0000     2119 bytes  package.json</tspan>
-<tspan x="10" y="1930">119.  2017-04-18 11:49:45 +0000     1254 bytes  tests/codesTest.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-18 11:49:45 +0000    17348 bytes  tests/testOutput/barcode.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-18 11:49:45 +0000    20900 bytes  tests/testOutput/barcodeWithOptions.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-18 11:49:45 +0000    24916 bytes  tests/testOutput/qrCode.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 11:50:47 +0000  6213251 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 11:50:47 +0000     2639 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 11:50:47 +0000     3655 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 11:50:47 +0000     1145 bytes  gulpfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 11:50:47 +0000       40 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 11:50:47 +0000     5774 bytes  lib/baropts.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 11:50:47 +0000    25557 bytes  lib/bwip.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 11:50:47 +0000    80700 bytes  lib/bwipp/auspost.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 11:50:47 +0000   187974 bytes  lib/bwipp/azteccode.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 11:50:47 +0000    35204 bytes  lib/bwipp/bc412.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 11:50:47 +0000    38846 bytes  lib/bwipp/channelcode.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 11:50:47 +0000   197777 bytes  lib/bwipp/codablockf.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 11:50:47 +0000    52065 bytes  lib/bwipp/code11.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 11:50:47 +0000   151095 bytes  lib/bwipp/code128.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 11:50:47 +0000   244571 bytes  lib/bwipp/code16k.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 11:50:47 +0000    44673 bytes  lib/bwipp/code2of5.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 11:50:47 +0000    22763 bytes  lib/bwipp/code32.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 11:50:47 +0000    46098 bytes  lib/bwipp/code39.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 11:50:47 +0000    31957 bytes  lib/bwipp/code39ext.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 11:50:47 +0000   286061 bytes  lib/bwipp/code49.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 11:50:47 +0000    45607 bytes  lib/bwipp/code93.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 11:50:47 +0000    33956 bytes  lib/bwipp/code93ext.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 11:50:47 +0000   139605 bytes  lib/bwipp/codeone.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 11:50:47 +0000    21341 bytes  lib/bwipp/daft.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 11:50:47 +0000   378407 bytes  lib/bwipp/databarexpanded.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 11:50:47 +0000    27767 bytes  lib/bwipp/databarexpandedcomposite.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 11:50:47 +0000     8932 bytes  lib/bwipp/databarexpandedstacked.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 11:50:47 +0000    26615 bytes  lib/bwipp/databarexpandedstackedcomposite.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 11:50:47 +0000    97776 bytes  lib/bwipp/databarlimited.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 11:50:47 +0000    19001 bytes  lib/bwipp/databarlimitedcomposite.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 11:50:47 +0000   160698 bytes  lib/bwipp/databaromni.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 11:50:47 +0000    28845 bytes  lib/bwipp/databaromnicomposite.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 11:50:47 +0000     8868 bytes  lib/bwipp/databarstacked.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 11:50:47 +0000    26451 bytes  lib/bwipp/databarstackedcomposite.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 11:50:47 +0000     8888 bytes  lib/bwipp/databarstackedomni.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 11:50:47 +0000    26493 bytes  lib/bwipp/databarstackedomnicomposite.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 11:50:47 +0000     8878 bytes  lib/bwipp/databartruncated.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 11:50:47 +0000    28900 bytes  lib/bwipp/databartruncatedcomposite.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 11:50:47 +0000   190147 bytes  lib/bwipp/datamatrix.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 11:50:47 +0000    68622 bytes  lib/bwipp/ean13.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 11:50:47 +0000    13254 bytes  lib/bwipp/ean13composite.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 11:50:47 +0000    22108 bytes  lib/bwipp/ean14.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 11:50:47 +0000    29131 bytes  lib/bwipp/ean2.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 11:50:47 +0000    33256 bytes  lib/bwipp/ean5.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 11:50:47 +0000    59956 bytes  lib/bwipp/ean8.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 11:50:47 +0000    13787 bytes  lib/bwipp/ean8composite.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 11:50:47 +0000    19782 bytes  lib/bwipp/flattermarken.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 11:50:47 +0000    53907 bytes  lib/bwipp/gs1-128.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 11:50:47 +0000    29127 bytes  lib/bwipp/gs1-128composite.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 11:50:47 +0000   294347 bytes  lib/bwipp/gs1-cc.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 11:50:47 +0000    45870 bytes  lib/bwipp/gs1datamatrix.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 11:50:47 +0000    14516 bytes  lib/bwipp/hibccodablockf.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 11:50:47 +0000    22708 bytes  lib/bwipp/hibccode128.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 11:50:47 +0000    23223 bytes  lib/bwipp/hibccode39.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 11:50:47 +0000    14516 bytes  lib/bwipp/hibcdatamatrix.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 11:50:47 +0000    15655 bytes  lib/bwipp/hibcmicropdf417.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 11:50:47 +0000    15605 bytes  lib/bwipp/hibcpdf417.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 11:50:47 +0000    14476 bytes  lib/bwipp/hibcqrcode.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 11:50:47 +0000    23935 bytes  lib/bwipp/identcode.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 11:50:47 +0000     9291 bytes  lib/bwipp/index.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 11:50:47 +0000    47961 bytes  lib/bwipp/interleaved2of5.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 11:50:47 +0000    49101 bytes  lib/bwipp/isbn.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 11:50:47 +0000    43838 bytes  lib/bwipp/ismn.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 11:50:47 +0000    38507 bytes  lib/bwipp/issn.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 11:50:47 +0000    16718 bytes  lib/bwipp/itf14.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 11:50:47 +0000    48144 bytes  lib/bwipp/japanpost.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 11:50:47 +0000    31934 bytes  lib/bwipp/kix.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 11:50:47 +0000    23935 bytes  lib/bwipp/leitcode.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 11:50:47 +0000   205312 bytes  lib/bwipp/maxicode.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 11:50:47 +0000   154143 bytes  lib/bwipp/micropdf417.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 11:50:47 +0000    53443 bytes  lib/bwipp/msi.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 11:50:47 +0000   112095 bytes  lib/bwipp/onecode.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 11:50:47 +0000   139377 bytes  lib/bwipp/pdf417.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 11:50:47 +0000    22169 bytes  lib/bwipp/pharmacode.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 11:50:47 +0000    23789 bytes  lib/bwipp/pharmacode2.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 11:50:47 +0000    42971 bytes  lib/bwipp/planet.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 11:50:47 +0000    49317 bytes  lib/bwipp/plessey.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 11:50:47 +0000   118769 bytes  lib/bwipp/posicode.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 11:50:47 +0000    43978 bytes  lib/bwipp/postnet.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 11:50:47 +0000    20479 bytes  lib/bwipp/pzn.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 11:50:47 +0000   408301 bytes  lib/bwipp/qrcode.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 11:50:47 +0000    42292 bytes  lib/bwipp/rationalizedCodabar.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 11:50:47 +0000    10439 bytes  lib/bwipp/raw.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 11:50:47 +0000    84288 bytes  lib/bwipp/renlinear.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 11:50:47 +0000    22763 bytes  lib/bwipp/renmatrix.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 11:50:47 +0000     8202 bytes  lib/bwipp/renmaximatrix.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 11:50:47 +0000    42881 bytes  lib/bwipp/royalmail.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 11:50:47 +0000    22112 bytes  lib/bwipp/sscc18.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 11:50:47 +0000    11970 bytes  lib/bwipp/symbol.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 11:50:47 +0000    51190 bytes  lib/bwipp/telepen.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 11:50:47 +0000    65395 bytes  lib/bwipp/upca.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 11:50:47 +0000    13244 bytes  lib/bwipp/upcacomposite.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 11:50:47 +0000    79768 bytes  lib/bwipp/upce.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 11:50:47 +0000    15775 bytes  lib/bwipp/upcecomposite.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 11:50:47 +0000     2121 bytes  lib/canvas.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 11:50:47 +0000      966 bytes  lib/codes.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 11:50:47 +0000      567 bytes  lib/fonts/index.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 11:50:47 +0000     5046 bytes  lib/fonts/ocrb10-01.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 11:50:47 +0000     7621 bytes  lib/fonts/ocrb10-02.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 11:50:47 +0000    10033 bytes  lib/fonts/ocrb10-03.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 11:50:47 +0000    13619 bytes  lib/fonts/ocrb10-04.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 11:50:47 +0000    16578 bytes  lib/fonts/ocrb10-05.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 11:50:47 +0000    19106 bytes  lib/fonts/ocrb10-06.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 11:50:47 +0000    21802 bytes  lib/fonts/ocrb10-07.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 11:50:47 +0000    24253 bytes  lib/fonts/ocrb10-08.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 11:50:47 +0000    27243 bytes  lib/fonts/ocrb10-09.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 11:50:47 +0000    29828 bytes  lib/fonts/ocrb10-10.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 11:50:47 +0000     5313 bytes  lib/fonts/ocrb12-01.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 11:50:47 +0000     9150 bytes  lib/fonts/ocrb12-02.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 11:50:47 +0000    12711 bytes  lib/fonts/ocrb12-03.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 11:50:47 +0000    16332 bytes  lib/fonts/ocrb12-04.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 11:50:47 +0000    19925 bytes  lib/fonts/ocrb12-05.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 11:50:47 +0000    23267 bytes  lib/fonts/ocrb12-06.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 11:50:47 +0000    26683 bytes  lib/fonts/ocrb12-07.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 11:50:47 +0000    29774 bytes  lib/fonts/ocrb12-08.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 11:50:47 +0000    33209 bytes  lib/fonts/ocrb12-09.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-18 11:50:47 +0000    36598 bytes  lib/fonts/ocrb12-10.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-18 11:50:47 +0000     7528 bytes  lib/png.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-18 11:50:47 +0000     2119 bytes  package.json</tspan>
+<tspan x="10" y="1930">119.  2017-04-18 11:50:47 +0000     1254 bytes  tests/codesTest.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-18 11:50:47 +0000    17348 bytes  tests/testOutput/barcode.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-18 11:50:47 +0000    20900 bytes  tests/testOutput/barcodeWithOptions.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-18 11:50:47 +0000    24916 bytes  tests/testOutput/qrCode.js</tspan>
 </text>
 </svg>
